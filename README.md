@@ -1,0 +1,2 @@
+# AI-BASED-SMART-ATTENDANCE-MANAGEMENT-SYSTEM-USING-FACE-DETECTION
+AI Based Smart Attendance Management System uses face detection and recognition to automatically record student attendance by captuing face . Developed using Python, Flask, OpenCV, and MySQL, the system allows administrators and teachers to manage students, timetables, and attendance, while students can view their attendance records and reports.
